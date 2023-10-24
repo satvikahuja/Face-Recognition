@@ -55,7 +55,3 @@ The primary operations performed in this project are:
 ## Contributing
 
 Feel free to fork this project, make changes, and create pull requests. Feedback and contributions are always welcome!
-
-## License
-
-This project is open-source and available to everyone. If you use any part of this project in your work, please provide the appropriate attribution.
