@@ -2,6 +2,9 @@
 
 This project focuses on the implementation of face recognition using OpenCV's Local Binary Patterns Histogram (LBPH) in Python, especially within the Google Colab environment. 
 
+##UPDATE- Now you can use the face_reco_training.py instead of the .ipynb file
+
+
 ## Prerequisites
 - Python
 - OpenCV
